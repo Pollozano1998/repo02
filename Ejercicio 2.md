@@ -1,18 +1,18 @@
 # COMANDOS GIT
-- **PWD**
-- **LS**
-- **CD**
-- **CD..**
-- **MKDIR**
-- **GIT CONFIG --GLOBAL USER.NAME**
-- **GIT CONFIG --GLOBAL USER.MAIL**
-- **GIT INIT < repositorio >**
-- **GIT STATUS**
-- **GIT ADD**
-- **GIT RM CACHED < archivo >**
-- **GIT COMMIT**
-- **GIT LOG**
-- **GIT PUSH**
-- **GIT REMOTE -V**
-- **GIT PULL**
-- **GIT CLONE**
+- **PWD** Nos indica la ruta en la que está ubicado.
+- **LS** Lista todos los archivos y carpetas de la ubicación
+- **CD < ruta >** Cambia el directorio al que se le indique.
+- **CD..** Retroceder al directorio anterior.
+- **MKDIR** Crea un directorio.
+- **GIT CONFIG --GLOBAL USER.NAME** Establece nuestro nombre.
+- **GIT CONFIG --GLOBAL USER.MAIL** Establece nuestro correo electrónico.
+- **GIT INIT < repositorio >** Crea un directorio .git para que sea utilizable.
+- **GIT STATUS** Indica en qué momento del área de trabajo están los archivos.
+- **GIT ADD** Añade los archivos a la staging area para que ya puedan ser actualizados y enviarlos al repositorio local.
+- **GIT RM CACHED < archivo >** El archivo indicado vuelve a la working directory.
+- **GIT COMMIT -M < comentario >** Se envían los archivos al repositorio local. Se le puede 
+- **GIT LOG** Nos muestra todos los commits que hemos realizado en los diferentes archivos.
+- **GIT PUSH** Sybe los archivos al repertorio remoto.
+- **GIT REMOTE -V** Desde la web de Github se nos indican los pasos para vincular los repertorios.
+- **GIT PULL** Actualiza el archivo desde el directorio en la nube.
+- **GIT CLONE < link >** Clonamos un directorio a partir de el link de Github.
