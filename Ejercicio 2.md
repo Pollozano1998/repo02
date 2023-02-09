@@ -1,0 +1,18 @@
+# COMANDOS GIT
+- **PWD**
+- **LS**
+- **CD**
+- **CD..**
+- **MKDIR**
+- **GIT CONFIG --GLOBAL USER.NAME**
+- **GIT CONFIG --GLOBAL USER.MAIL**
+- **GIT INIT < repositorio >**
+- **GIT STATUS**
+- **GIT ADD**
+- **GIT RM CACHED < archivo >**
+- **GIT COMMIT**
+- **GIT LOG**
+- **GIT PUSH**
+- **GIT REMOTE -V**
+- **GIT PULL**
+- **GIT CLONE**
